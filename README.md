@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--## Hi there 👋-->
 
 <h1 align="center">Hi 👋, I'm Phicharaya Khotmani</h1>
 <h3 align="center">A passionate Computer Science student focus on frontend development, software development and UX/UI design</h3>
