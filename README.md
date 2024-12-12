@@ -8,6 +8,8 @@
 
 <hr />
 
+<img src="asset/freepik__expand__44740.png"/>
+
 <h3>👩‍💻 My Tech Stack</h3>
 
 **Languages**  
