@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Phicharaya Khotmani</h1>
 <h3 align="center">A passionate Computer Science student focus on frontend development, software engineering and UX/UI design</h3>
 
+<hr />
+
 - 🌱 I’m currently learning **React, Vue.js, Unity**
 
 - 📫 How to reach me **phicharaya.atwork@gmail.com**
