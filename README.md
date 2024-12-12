@@ -4,10 +4,11 @@
 <h3 align="center">A passionate Computer Science student focus on frontend development, software engineering and UX/UI design</h3>
 
 <hr />
-
+<p align="center">
 - 🌱 I’m currently learning **React, Vue.js, Unity**
 
 - 📫 How to reach me **phicharaya.atwork@gmail.com**
+</p>
 
 <!--
 **PhicharayaKhotmani/PhicharayaKhotmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
