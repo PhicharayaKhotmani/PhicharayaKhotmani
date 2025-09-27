@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phicharaya Khotmani</h1>
-<h3 align="center">A passionate Computer Science student focusing on frontend development, software engineering, and UX/UI design</h3>
+<h3 align="center">A passionate Computer Science student focusing on software engineering</h3>
 
 <hr />
 
